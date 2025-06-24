@@ -9,3 +9,7 @@
 .darkgray{
     color: hsl(0, 0%, 7%);
 }
+
+/* @theme {
+    --bg-yellower: hsl(47, 88%, 63%);
+} */
